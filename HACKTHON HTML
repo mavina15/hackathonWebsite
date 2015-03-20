@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+    <div id='wrapper'>
+        <div class='box' id='about'> </div>
+        <a href='http://google.com'>
+            <button id='aboutButton'>ABOUT</button>
+        </a>    
+    <div class='box' id='gallery'></div>
+        <a href='http://google.com'>
+            <button id='galleryButton'>GALLERY</button>
+        </a>    
+    <div class='box' id='contact'></div>
+        <a href='http://google.com'>
+            <button id='contactButton'>CONTACT</button>
+        </a>    
+    </div> 
+        
+    <div>
+    <p class='title' id='first'><b>FRANCO'S</b></p>
+    <p class='title' id='second'><b>Auto Upholstery</b></p>        
+    </div>
+</body>    
+</html>    
+ 

@@ -1,0 +1,39 @@
+#wrapper {
+    width: 650px;
+    height: 0px;
+    margin: 0 auto;
+    border: 30px solid black;
+}
+#aboutButton{
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    float: right;
+    font-size: 20px;
+}
+#galleryButton{
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    float: right;
+    font-size: 20px;
+}
+#contactButton{
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    float: right;
+    font-size: 20px;
+}
+#first {
+    color: rgb(0, 204, 204);
+    letter-spacing: 2px;   
+}
+#second {
+    line-height: 10px;   
+}
+.title {
+    font-family: Verdana;
+    text-align: center;
+    font-size: 50px;
+}

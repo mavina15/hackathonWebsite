@@ -1,0 +1,34 @@
+body{
+	background-color:#E1E2E3;
+	font-size:40px;
+	color:white;
+} 
+
+
+#top_header{
+	background-color:#0066CC;
+	color:white;
+	height:100px;
+	width:100%;
+}
+
+#left_options_panel{
+
+	position: absolute;
+
+	top:40%;
+	left:0%;
+
+	background-color:red;
+	color:white;
+	height:400px;
+	width:300px;
+}
+
+.options_same_prop{
+	margin-top:10px;
+	width:100%; 
+	height:30px;
+	background-color:orange;  
+}
+/* this is a comment */
